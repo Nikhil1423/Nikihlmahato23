@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikihlmahato23
 - 👀 I’m interested in ... Programming, Video Editing and many more
-- 🌱 I’m currently learning ... CSS
-- 💞️ I’m looking to collaborate on ... Twitter
+- 🌱 I’m currently learning ... Wwb Development
+- 💞️ I’m looking to collaborate on ... @Nikihil_Mahato
 - 📫 How to reach me ... nikhilmah23@gmail.com
 
 <!---
