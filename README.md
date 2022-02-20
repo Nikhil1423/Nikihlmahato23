@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikihlmahato23
+- 👋 Hi, I’m @Nikhilmahato23
 - 👀 I’m interested in ... Programming, Video Editing and many more things
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ... @Nikihil_Mahato
